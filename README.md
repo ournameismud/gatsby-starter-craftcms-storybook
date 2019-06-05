@@ -40,7 +40,7 @@ API_URL=REPLACE_ME
 API_BEARER=REPLACE_ME
 ```
 
-If craftql is setup correctly you should now be able to start queriying craft througb the graphql explorer.
+If craftql is setup correctly you should now be able to start querying craft though the graphql explorer.
 
 ### Storybook
 
